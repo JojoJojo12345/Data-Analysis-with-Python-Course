@@ -1,2 +1,2 @@
-<h1>Data Analysis with Python Course</h1>
-<p>This repository contains all files required for the Data Analysis with Python Course in freecodecamp.</p>
+# Data Analysis with Python Course
+This repository contains all files required for the Data Analysis with Python Course in freecodecamp.
